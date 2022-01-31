@@ -76,7 +76,7 @@ es6-promise@^4.2.4:
   resolved "https://registry.yarnpkg.com/es6-promise/-/es6-promise-4.2.8.tgz#4eb21594c972bc40553d276e510539143db53e0a"
   integrity sha512-HJDGx5daxeIvxdBxvG2cb9g4tEvwIk3i8+nhX0yGrYmZUzbkdg8QbDevheDB8gd0//uPj4c1EQua8Q+MViT0/w==
 
-eventsource@^1.0.7:
+eventsource@^1.0.7, eventsource@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/eventsource/-/eventsource-1.1.0.tgz#00e8ca7c92109e94b0ddf32dac677d841028cfaf"
   integrity sha512-VSJjT5oCNrFvCS6igjzPAt5hBzQ2qPBFIbJ03zLI9SE0mxwZpMw6BfJrbFHm1a141AavMEB8JHmBhWAd66PfCg==
